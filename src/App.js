@@ -2,11 +2,11 @@ import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import AddStudent from './component/AddStudent';
+import AddBooks from './component/AddBooks';
 
 function App() {
   return (
-   <AddStudent/>
+   <AddBooks/>
   );
 }
 
